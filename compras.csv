@@ -1,0 +1,96 @@
+Mapa de compras por fornecedor (detalhe);;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Datas;2023-01-01 a 2023-12-31;;;;;;;;;;;;;;;;;;
+Fornecedores;000000000 a zzzzzzzzz;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+NIF;Nome;Data;Tipo;Número;Vossa Ref.;Cod.;Descrição;Quantidade;Valor líquido;Valor;IVA;Moeda original;Taxa de câmbio;Valor líquido na moeda original;Valor na moeda original;IVA na moeda original;% de IVA;País/Região;Mercado
+508141966;Apple Portugal, Unipessoal Lda;2023-01-05;FC;FC 2023/1;;SM001;Apple iPhone 13 Pro - 256GB - Azul Sierra;19;18050;22201,5;4151,5;EUR;1;18050;22201,5;4151,5;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-01-05;FC;FC 2023/1;;SM004;Apple iPhone 15 Pro Max - 256GB - Titânio Natural;26;10738;13207,74;2469,74;EUR;1;10738;13207,74;2469,74;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-04-04;FC;FC 2023/6;;SM001;Apple iPhone 13 Pro - 256GB - Azul Sierra;17;20187,5;24830,63;4643,13;EUR;1;20187,5;24830,63;4643,13;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-04-04;FC;FC 2023/6;;SM004;Apple iPhone 15 Pro Max - 256GB - Titânio Natural;16;8260;10159,8;1899,8;EUR;1;8260;10159,8;1899,8;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-04-04;FC;FC 2023/6;;TC002;Drone DJI Air 3 Fly More Combo;6;4590;5645,7;1055,7;EUR;1;4590;5645,7;1055,7;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-04-04;FC;FC 2023/6;;TC001;Action Cam GoPro HERO10 - Preto;10;1775;2183,25;408,25;EUR;1;1775;2183,25;408,25;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-07-03;FC;FC 2023/12;;SM001;Apple iPhone 13 Pro - 256GB - Azul Sierra;5;7718,75;9494,06;1775,31;EUR;1;7718,75;9494,06;1775,31;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-07-03;FC;FC 2023/12;;SM004;Apple iPhone 15 Pro Max - 256GB - Titânio Natural;5;3355,65;4127,45;771,8;EUR;1;3355,65;4127,45;771,8;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-07-03;FC;FC 2023/12;;TS004;Soundbar Bose TV Speaker;2;578,5;711,56;133,06;EUR;1;578,5;711,56;133,06;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-07-03;FC;FC 2023/12;;TS003;Projetor Hisense Laser C1;2;3633,5;4469,21;835,71;EUR;1;3633,5;4469,21;835,71;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-07-03;FC;FC 2023/12;;TS002;Smart TV Philips OLED 4K UHD 65OLED718 - 165cm;1;1157;1423,11;266,11;EUR;1;1157;1423,11;266,11;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-10-02;FC;FC 2023/17;;SM001;Apple iPhone 13 Pro - 256GB - Azul Sierra;9;7641,54;9399,09;1757,55;EUR;1;7641,54;9399,09;1757,55;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-10-02;FC;FC 2023/17;;SM004;Apple iPhone 15 Pro Max - 256GB - Titânio Natural;14;5167,68;6356,25;1188,57;EUR;1;5167,68;6356,25;1188,57;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-10-02;FC;FC 2023/17;;TS004;Soundbar Bose TV Speaker;7;1113,63;1369,76;256,13;EUR;1;1113,63;1369,76;256,13;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-10-02;FC;FC 2023/17;;TC002;Drone DJI Air 3 Fly More Combo;16;8751,68;10764,57;2012,89;EUR;1;8751,68;10764,57;2012,89;23;Portugal - Continente;Mercado Nacional
+508141966;Apple Portugal, Unipessoal Lda;2023-10-02;FC;FC 2023/17;;TC001;Action Cam GoPro HERO10 - Preto;21;2665,11;3278,09;612,98;EUR;1;2665,11;3278,09;612,98;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;ED001;Aspirador Robot iRobot Roomba Combo i5+;14;2786;3426,78;640,78;EUR;1;2786;3426,78;640,78;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;ED002;Máquina de Café Expresso Smeg - Preto;11;1540;1894,2;354,2;EUR;1;1540;1894,2;354,2;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;ED003;Máquina de Café em Cápsulas Krups Nescafé® Dolce Gusto® Piccolo XS - Preto;17;459;564,57;105,57;EUR;1;459;564,57;105,57;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;TC001;Action Cam GoPro HERO10 - Preto;15;2130;2619,9;489,9;EUR;1;2130;2619,9;489,9;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;TS001;Suporte Vesa Ewent EW1522 - 13'' - 42'';98;882;1084,86;202,86;EUR;1;882;1084,86;202,86;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;TS003;Projetor Hisense Laser C1;14;15652;19251,96;3599,96;EUR;1;15652;19251,96;3599,96;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-01-06;FC;FC 2023/2;;ED004;Máquina de Secar Beko DH 9532 GAO | 9 Kg | Bomba de Calor | A+++ | Branco;18;7236;8900,28;1664,28;EUR;1;7236;8900,28;1664,28;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;ED001;Aspirador Robot iRobot Roomba Combo i5+;8;1990;2447,7;457,7;EUR;1;1990;2447,7;457,7;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;ED002;Máquina de Café Expresso Smeg - Preto;10;1750;2152,5;402,5;EUR;1;1750;2152,5;402,5;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;ED003;Máquina de Café em Cápsulas Krups Nescafé® Dolce Gusto® Piccolo XS - Preto;9;303,75;373,61;69,86;EUR;1;303,75;373,61;69,86;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;ED004;Máquina de Secar Beko DH 9532 GAO | 9 Kg | Bomba de Calor | A+++ | Branco;12;6030;7416,9;1386,9;EUR;1;6030;7416,9;1386,9;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;TS003;Projetor Hisense Laser C1;4;5590;6875,7;1285,7;EUR;1;5590;6875,7;1285,7;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-07;FC;FC 2023/7;;TS004;Soundbar Bose TV Speaker;3;667,5;821,03;153,53;EUR;1;667,5;821,03;153,53;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-14;FC;FC 2023/11;;GA001;Consola Nintendo Switch Neon;27;3307,5;4068,23;760,73;EUR;1;3307,5;4068,23;760,73;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-14;FC;FC 2023/11;;GA002;Cadeira Gaming Alpha Gamer Alegra - Preto;21;3885;4778,55;893,55;EUR;1;3885;4778,55;893,55;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-14;FC;FC 2023/11;;GA003;Computador Portátil Gaming Asus ROG Zephyrus Duo X650PY;14;26110;32115,3;6005,3;EUR;1;26110;32115,3;6005,3;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-04-14;FC;FC 2023/11;;GA004;Computador Portátil Gaming Lenovo IdeaPad 3 15ACH6;18;10597,5;13034,93;2437,43;EUR;1;10597,5;13034,93;2437,43;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-07-05;FC;FC 2023/13;;ED001;Aspirador Robot iRobot Roomba Combo i5+;4;1293,52;1591,03;297,51;EUR;1;1293,52;1591,03;297,51;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-07-05;FC;FC 2023/13;;ED002;Máquina de Café Expresso Smeg - Preto;3;682,5;839,48;156,98;EUR;1;682,5;839,48;156,98;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-07-05;FC;FC 2023/13;;ED003;Máquina de Café em Cápsulas Krups Nescafé® Dolce Gusto® Piccolo XS - Preto;2;87,76;107,94;20,18;EUR;1;87,76;107,94;20,18;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-07-05;FC;FC 2023/13;;ED004;Máquina de Secar Beko DH 9532 GAO | 9 Kg | Bomba de Calor | A+++ | Branco;1;653,25;803,5;150,25;EUR;1;653,25;803,5;150,25;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-07-05;FC;FC 2023/13;;TS001;Suporte Vesa Ewent EW1522 - 13'' - 42'';9;131,67;161,95;30,28;EUR;1;131,67;161,95;30,28;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;ED001;Aspirador Robot iRobot Roomba Combo i5+;5;889,3;1093,84;204,54;EUR;1;889,3;1093,84;204,54;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;ED002;Máquina de Café Expresso Smeg - Preto;6;750,78;923,46;172,68;EUR;1;750,78;923,46;172,68;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;ED003;Máquina de Café em Cápsulas Krups Nescafé® Dolce Gusto® Piccolo XS - Preto;7;168,91;207,76;38,85;EUR;1;168,91;207,76;38,85;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;ED004;Máquina de Secar Beko DH 9532 GAO | 9 Kg | Bomba de Calor | A+++ | Branco;4;1437,16;1767,71;330,55;EUR;1;1437,16;1767,71;330,55;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;TS001;Suporte Vesa Ewent EW1522 - 13'' - 42'';14;112,56;138,45;25,89;EUR;1;112,56;138,45;25,89;23;Portugal - Continente;Mercado Nacional
+503638471;Castro Electrónica, Lda;2023-10-04;FC;FC 2023/18;;GA003;Computador Portátil Gaming Asus ROG Zephyrus Duo X650PY;15;20002,2;24602,71;4600,51;EUR;1;20002,2;24602,71;4600,51;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-01-09;FC;FC 2023/3;;GA001;Consola Nintendo Switch Neon;21;2058;2531,34;473,34;EUR;1;2058;2531,34;473,34;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-01-09;FC;FC 2023/3;;SM002;Oppo A98 5G 256 GB - Azul;12;1704;2095,92;391,92;EUR;1;1704;2095,92;391,92;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-01-09;FC;FC 2023/3;;GA004;Computador Portátil Gaming Lenovo IdeaPad 3 15ACH6;19;8949;11007,27;2058,27;EUR;1;8949;11007,27;2058,27;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-01-09;FC;FC 2023/3;;TS002;Smart TV Philips OLED 4K UHD 65OLED718 - 165cm;18;12816;15763,68;2947,68;EUR;1;12816;15763,68;2947,68;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-04-12;FC;FC 2023/9;;TC004;Impressora Fotográfica Canon Selphy CP1500 - Preto;13;1413,75;1738,91;325,16;EUR;1;1413,75;1738,91;325,16;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-04-12;FC;FC 2023/9;;TC003;Máquina Fotográfica Mirrorless Nikon Z6 II + 24-70mm f/4 S;8;10230;12582,9;2352,9;EUR;1;10230;12582,9;2352,9;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-04-12;FC;FC 2023/9;;TS001;Suporte Vesa Ewent EW1522 - 13'' - 42'';8;90;110,7;20,7;EUR;1;90;110,7;20,7;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-07-07;FC;FC 2023/14;;TC004;Impressora Fotográfica Canon Selphy CP1500 - Preto;4;565,52;695,59;130,07;EUR;1;565,52;695,59;130,07;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-07-07;FC;FC 2023/14;;TC003;Máquina Fotográfica Mirrorless Nikon Z6 II + 24-70mm f/4 S;4;6649,52;8178,91;1529,39;EUR;1;6649,52;8178,91;1529,39;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-07-07;FC;FC 2023/14;;TC002;Drone DJI Air 3 Fly More Combo;4;3978;4892,94;914,94;EUR;1;3978;4892,94;914,94;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-07-07;FC;FC 2023/14;;TC001;Action Cam GoPro HERO10 - Preto;6;1384,5;1702,94;318,44;EUR;1;1384,5;1702,94;318,44;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-10-06;FC;FC 2023/19;;TC004;Impressora Fotográfica Canon Selphy CP1500 - Preto;35;2721,6;3347,57;625,97;EUR;1;2721,6;3347,57;625,97;23;Portugal - Continente;Mercado Nacional
+505304775;Claranet datacenter;2023-10-06;FC;FC 2023/19;;TC003;Máquina Fotográfica Mirrorless Nikon Z6 II + 24-70mm f/4 S;32;29257,92;35987,24;6729,32;EUR;1;29257,92;35987,24;6729,32;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-01-10;FC;FC 2023/4;;TC004;Impressora Fotográfica Canon Selphy CP1500 - Preto;21;1827;2247,21;420,21;EUR;1;1827;2247,21;420,21;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-01-10;FC;FC 2023/4;;TC002;Drone DJI Air 3 Fly More Combo;32;19584;24088,32;4504,32;EUR;1;19584;24088,32;4504,32;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-01-10;FC;FC 2023/4;;TC003;Máquina Fotográfica Mirrorless Nikon Z6 II + 24-70mm f/4 S;23;23529;28940,67;5411,67;EUR;1;23529;28940,67;5411,67;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-04-13;FC;FC 2023/10;;TC002;Drone DJI Air 3 Fly More Combo;5;3825;4704,75;879,75;EUR;1;3825;4704,75;879,75;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-04-13;FC;FC 2023/10;;SM002;Oppo A98 5G 256 GB - Azul;18;3195;3929,85;734,85;EUR;1;3195;3929,85;734,85;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-07-10;FC;FC 2023/15;;GA001;Consola Nintendo Switch Neon;6;955,5;1175,27;219,77;EUR;1;955,5;1175,27;219,77;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-07-10;FC;FC 2023/15;;GA002;Cadeira Gaming Alpha Gamer Alegra - Preto;6;1443;1774,89;331,89;EUR;1;1443;1774,89;331,89;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-07-10;FC;FC 2023/15;;GA003;Computador Portátil Gaming Asus ROG Zephyrus Duo X650PY;3;7273,5;8946,41;1672,91;EUR;1;7273,5;8946,41;1672,91;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-07-10;FC;FC 2023/15;;GA004;Computador Portátil Gaming Lenovo IdeaPad 3 15ACH6;6;4592,28;5648,5;1056,22;EUR;1;4592,28;5648,5;1056,22;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-10-09;FC;FC 2023/20;;GA001;Consola Nintendo Switch Neon;78;6832,02;8403,38;1571,36;EUR;1;6832,02;8403,38;1571,36;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-10-09;FC;FC 2023/20;;GA002;Cadeira Gaming Alpha Gamer Alegra - Preto;87;11508,36;14155,28;2646,92;EUR;1;11508,36;14155,28;2646,92;23;Portugal - Continente;Mercado Nacional
+506909034;Huawei Tech.portugal - Tecnologias de Informação, Lda;2023-10-09;FC;FC 2023/20;;GA004;Computador Portátil Gaming Lenovo IdeaPad 3 15ACH6;50;21048;25889,04;4841,04;EUR;1;21048;25889,04;4841,04;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-01-11;FC;FC 2023/5;;TS004;Soundbar Bose TV Speaker;11;1958;2408,34;450,34;EUR;1;1958;2408,34;450,34;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-01-11;FC;FC 2023/5;;SM003;Smartphone Samsung Galaxy A55 5G - 256 GB - Preto;14;3486;4287,78;801,78;EUR;1;3486;4287,78;801,78;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-01-11;FC;FC 2023/5;;GA002;Cadeira Gaming Alpha Gamer Alegra - Preto;8;1184;1456,32;272,32;EUR;1;1184;1456,32;272,32;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-01-11;FC;FC 2023/5;;GA003;Computador Portátil Gaming Asus ROG Zephyrus Duo X650PY;9;13428;16516,44;3088,44;EUR;1;13428;16516,44;3088,44;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-04-11;FC;FC 2023/8;;TS002;Smart TV Philips OLED 4K UHD 65OLED718 - 165cm;7;6230;7662,9;1432,9;EUR;1;6230;7662,9;1432,9;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-04-11;FC;FC 2023/8;;SM003;Smartphone Samsung Galaxy A55 5G - 256 GB - Preto;16;4980;6125,4;1145,4;EUR;1;4980;6125,4;1145,4;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-07-11;FC;FC 2023/16;;SM002;Oppo A98 5G 256 GB - Azul;8;1846;2270,58;424,58;EUR;1;1846;2270,58;424,58;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-07-11;FC;FC 2023/16;;SM003;Smartphone Samsung Galaxy A55 5G - 256 GB - Preto;5;2023,15;2488,47;465,32;EUR;1;2023,15;2488,47;465,32;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-10-11;FC;FC 2023/21;;SM003;Smartphone Samsung Galaxy A55 5G - 256 GB - Preto;34;7566,36;9306,62;1740,26;EUR;1;7566,36;9306,62;1740,26;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-10-11;FC;FC 2023/21;;SM002;Oppo A98 5G 256 GB - Azul;31;3934,21;4839,08;904,87;EUR;1;3934,21;4839,08;904,87;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-10-11;FC;FC 2023/21;;TS002;Smart TV Philips OLED 4K UHD 65OLED718 - 165cm;29;18454,15;22698,6;4244,45;EUR;1;18454,15;22698,6;4244,45;23;Portugal - Continente;Mercado Nacional
+501325301;SAMSUNG - ELECTRONICA PORTUGUESA UNIPESSOAL LDA;2023-10-11;FC;FC 2023/21;;TS003;Projetor Hisense Laser C1;25;24980,25;30725,71;5745,46;EUR;1;24980,25;30725,71;5745,46;23;Portugal - Continente;Mercado Nacional
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
