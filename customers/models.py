@@ -17,7 +17,7 @@ class Address(models.Model):
 # Create your models here.
 
 class Customer(models.Model):
-    #nif = models.IntegerField(max_length=9, unique=True)
+    # nif = models.IntegerField(max_length=9, unique=True)
     id = models.CharField(max_length=30, primary_key=True)
     account_id = models.CharField(max_length=30)
     tax_id = models.CharField(max_length=30)

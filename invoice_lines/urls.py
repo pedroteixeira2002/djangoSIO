@@ -1,4 +1,5 @@
 from django.urls import path
+
 from invoice_lines import views
 
 urlpatterns = [

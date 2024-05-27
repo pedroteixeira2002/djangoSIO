@@ -50,7 +50,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
-        'corsheaders.middleware.CorsMiddleware',  # Certifique-se de que este middleware esteja antes dos outros
+    'corsheaders.middleware.CorsMiddleware',  # Certifique-se de que este middleware esteja antes dos outros
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -59,7 +59,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
 
 ROOT_URLCONF = 'djangoSIO.urls'
 
@@ -162,6 +161,3 @@ CORS_ALLOW_METHODS = [
     'POST',
     'PUT',
 ]
-
-
-

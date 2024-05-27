@@ -5,7 +5,6 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
     dependencies = [
@@ -29,7 +28,8 @@ class Migration(migrations.Migration):
                 ('gross_total', models.FloatField()),
                 ('tax_payable', models.FloatField()),
                 ('customer', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='customers.customer')),
-                ('payment', models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE, to='invoices.payment')),
+                ('payment', models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.CASCADE,
+                                              to='invoices.payment')),
             ],
         ),
     ]

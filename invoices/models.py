@@ -1,5 +1,7 @@
-from django.db import models
 from datetime import datetime
+
+from django.db import models
+
 from customers.models import Customer
 
 
@@ -20,4 +22,3 @@ class Invoice(models.Model):
 
     def set_date(self, date_str):
         self.date = datetime.strptime(date_str, '%Y-%m-$d').date()
-

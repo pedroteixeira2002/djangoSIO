@@ -2,10 +2,8 @@ import calendar
 
 from django.db.models import Count
 from django.http import JsonResponse
-from django.shortcuts import render
 from rest_framework.decorators import api_view
 
-from products.models import Product
 from .models import InvoiceLines
 
 

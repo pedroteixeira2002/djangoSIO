@@ -1,7 +1,7 @@
 import calendar
 
 from django.db.models import Sum, Count
-from django.db.models.functions import ExtractWeekDay, ExtractIsoWeekDay
+from django.db.models.functions import ExtractIsoWeekDay
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
@@ -35,9 +35,8 @@ def get_sales_by_month(request, year):
     return JsonResponse(counts)
 
 
-
 @api_view(['GET'])
-def customer_gross_total(request , year):
+def customer_gross_total(request, year):
     totals = Invoice.objects.values('customer').annotate(gross_total_sum=Sum('gross_total'))
 
     result = []
@@ -101,6 +100,7 @@ def get_most_used_payment_methods(request, year):
     }
 
     return Response(data)
+
 
 @api_view(['GET'])
 def get_sales_by_week_day(request, year):
@@ -192,9 +192,11 @@ def total_tax_payed(request, year):
 
     return Response(result)
 
+
 @api_view(['GET'])
 def get_sales_by_week_day(request, year):
-    weekday_counts = Invoice.objects.filter(date__year=year).annotate(weekday=ExtractIsoWeekDay('date')).values('weekday').annotate(
+    weekday_counts = Invoice.objects.filter(date__year=year).annotate(weekday=ExtractIsoWeekDay('date')).values(
+        'weekday').annotate(
         count=Count('weekday')).order_by('weekday')
 
     weekday_labels = {

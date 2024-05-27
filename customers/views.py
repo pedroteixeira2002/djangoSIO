@@ -1,6 +1,5 @@
-from django.db.models import Count, Sum
+from django.db.models import Sum
 from django.http import JsonResponse
-from django.shortcuts import render
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
@@ -17,6 +16,7 @@ def customers_count(request):
     response["total_clients"] = total_clients
     return JsonResponse(response)
 
+
 @api_view(['GET'])
 def customers_list(request):
     customers = Customer.objects.all()
@@ -30,6 +30,7 @@ def customers_list(request):
         })
 
     return JsonResponse(customer_data, safe=False)
+
 
 @api_view(['GET'])
 def customers_best_products(request):

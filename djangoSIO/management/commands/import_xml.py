@@ -1,11 +1,12 @@
 import os
-from django.core.management.base import BaseCommand
 import xml.etree.ElementTree as ET
 
-from products.models import Product
+from django.core.management.base import BaseCommand
+
 from customers.models import Address, Customer
-from invoices.models import Invoice, Payment
 from invoice_lines.models import InvoiceLines
+from invoices.models import Invoice, Payment
+from products.models import Product
 
 
 class Command(BaseCommand):

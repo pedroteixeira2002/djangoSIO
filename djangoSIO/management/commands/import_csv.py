@@ -1,12 +1,3 @@
-import csv
-from datetime import datetime
-
-from django.core.management.base import BaseCommand
-from products.models import Product
-from customers.models import Address, Customer
-from invoices.models import Invoice, Payment
-from invoice_lines.models import InvoiceLines
-
 """class Command(BaseCommand):
     help = 'Importa dados do CSV para o modelo Product'
 

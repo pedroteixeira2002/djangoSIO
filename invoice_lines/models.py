@@ -13,7 +13,5 @@ class InvoiceLines(models.Model):
     unit_price = models.DecimalField(max_digits=19, decimal_places=10)
     credit_amount = models.FloatField()
 
-
     def __str__(self):
         return self.invoice_no.no
-        
