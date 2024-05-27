@@ -13,7 +13,9 @@ class Command(BaseCommand):
     help = 'Import data from XML file to database'
 
     def handle(self, *args, **options):
-        xml_file_path = os.path.join(os.getcwd(), 'saft.xml')
+        """saft_neves.xml"""
+        """saft_pedro.xml"""
+        xml_file_path = os.path.join(os.getcwd(), 'saft_pedro.xml')
         tree = ET.parse(xml_file_path)
         root = tree.getroot()
 
